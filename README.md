@@ -1,5 +1,4 @@
 # MLXStructured
-[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/mlx-swift-structured&type=Date)](https://star-history.com/#rudrankriyam/mlx-swift-structured&Date)
 
 
 MLXStructured is a Swift library for structured output generation using constrained decoding in [MLX](https://github.com/ml-explore/mlx-swift). It's built on top of the [XGrammar](https://github.com/mlc-ai/xgrammar) library, which provides efficient, flexible, and portable structured generation. You can learn more about the XGrammar algorithm in their [technical report](https://arxiv.org/abs/2411.15100).
@@ -187,3 +186,5 @@ The order of keys here is random because `Dictionary` in Swift is unordered. I p
 ## Troubleshooting
 
 This library is still in an early stage of development. While it is already functional, it may have unexpected issues or even crash your program. If you encounter a problem, please create an issue or open a pull request. Contributions are welcome!
+
+[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/mlx-swift-structured&type=Date)](https://star-history.com/#rudrankriyam/mlx-swift-structured&Date)
